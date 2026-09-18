@@ -1,5 +1,4 @@
 # Art
 
-- **What I make:** <!-- TODO: drawing, painting, digital, photography… -->
-- **Artists / styles I love:**
-- **Favourite pieces (add images to this folder):**
+- **Drawing:** 5 years
+- **Pottery:** since 2023

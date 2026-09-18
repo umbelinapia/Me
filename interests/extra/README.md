@@ -1,5 +1,5 @@
 # Extra
 
-Anything that doesn't fit above: games, books, films and TV, travel, side quests.
-
-<!-- TODO -->
+- **Dance:** classical 2010 – 2016, salsa since 2023
+- **Girl Scouts:** 2009 – 2018
+- **Cats** 🐱

@@ -1,6 +1,6 @@
 # Music
 
-- **What I listen to:** <!-- TODO -->
-- **Favourite artists / albums:**
-- **Instruments I play:**
-- **Playlists (links):**
+- **Choir:** 10 years, soprano
+- **Piano:** 4 years
+- **Guitar:** 1 year
+- *(all 2011 – 2021)*

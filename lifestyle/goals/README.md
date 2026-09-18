@@ -2,5 +2,5 @@
 
 | Timeframe | Goal | Status |
 | --- | --- | --- |
-| This year | <!-- TODO --> | |
-| Next 5 years | | |
+| This year | Continue MEng (finish June 2027) | In progress |
+| Next 5 years | <!-- TODO --> | |
